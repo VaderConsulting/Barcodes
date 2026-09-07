@@ -1,6 +1,6 @@
 # Barcodes
 
-Third-party Code 39 barcode generator by Allen Allegretto (`Barcode.exe` / `BarcodeGenerator`). This is Dave Robinson's working copy of the VB6 project.
+Third-party Code 39 barcode generator by Allen Allegretto (`Barcode.exe` / `BarcodeGenerator`).
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
