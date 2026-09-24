@@ -21,7 +21,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Barcodes`.
+Working copy from my Historical Dev folder `VB/Barcodes`.
 Company names in `.vbp` files: Allen Allegretto.
 Third-party attribution: Allen Allegretto. See `THIRD_PARTY_NOTICES.md`.
 
